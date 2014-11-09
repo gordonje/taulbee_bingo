@@ -7,6 +7,6 @@ But more to the point: They love to ridicule one another. Each family member has
 
 That's where the idea for Taulbee Bingo comes in. 
 
-Start with a compendium of character quirks. Then use that list to generate five-by-five grids--the bingo card--of randomly selected possibilities one might expect at a typical Taulbee gathering. Each player can load his or her own card in a browser (looks great on a tablet, not so much on a phone) and keep track of the good times.
+Start with a [compendium of character quirks](https://github.com/gordonje/taulbee_bingo/blob/master/tiles.txt "Tile List"). Then use that list to generate five-by-five grids--the bingo card--of [randomly selected](https://github.com/gordonje/taulbee_bingo/blob/master/script.js#L27) possibilities one might expect at a typical Taulbee gathering. Each player can load his or her own card in a browser (looks great on a tablet, not so much on a phone) and keep track of the good times.
 
-As per traditional bingo rules, the middle square is a "gimme", the same for everyone. Apparently Sam farts are pretty frequent (might want to see a doctor about that).
+As per traditional bingo rules, the middle square is a "gimme", [the same for every card](https://github.com/gordonje/taulbee_bingo/blob/master/script.js#L25). Apparently Sam farts are pretty frequent (might want to see a doctor about that).
